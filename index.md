@@ -1,6 +1,6 @@
 ### Data Scientist
 
-I'm a data scientist in the Midwest. I help insurance companies and other businesses apply machine learning to make better decisions.
+I'm a data scientist in Illinois. I help insurance companies and other businesses apply machine learning to make better decisions.
 
 ### Projects
 
